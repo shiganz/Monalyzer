@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MonVisuals",
+  title: "Monalyzer",
   description: "Monad Blockchain Visualizer",
-  creator: "Tsunaazhizhi55"
+  creator: "Monalyzershiganz"
 };
 
 export default function RootLayout({
